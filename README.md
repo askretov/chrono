@@ -1,4 +1,4 @@
-# Mutable
+# Chrono
 [![Go Report Card](https://goreportcard.com/badge/github.com/askretov/chrono)](https://goreportcard.com/report/github.com/askretov/chrono)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1c52c7899e544969b1d83896dbc2b9c4)](https://www.codacy.com/app/askretov/go-mutable?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=askretov/mutable&amp;utm_campaign=Badge_Grade)
 [![codecov](https://codecov.io/gh/askretov/chrono/branch/master/graph/badge.svg)](https://codecov.io/gh/askretov/chrono)
