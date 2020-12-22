@@ -1,4 +1,4 @@
-module chrono
+module github.com/askretov/chrono
 
 go 1.15
 
